@@ -381,14 +381,6 @@ mysx-cli/
 
 ---
 
-## License
-
-MIT. The cipher itself (MYSX-256/512, `PAPER.md`, `mysx.prod.js`,
-`KAT.json`) lives in the `MYSX-256` repository under the same license.
-This CLI lives in a separate repository and inherits it.
-
----
-
 ## References
 
 - MYSX-256/512 paper and reference JavaScript:
